@@ -66,14 +66,14 @@ public class MainActivity extends AppCompatActivity {
 
     public void show()
     {
-        int i=65;
-        int ii =70;
+        int i=15;
+        int ii =20;
         String istring = Integer.toString(i);
         String iistring;
 
 
-        if(i<=10)
-            iistring = Integer.toString(ii+9);
+        if(i<=100)
+            iistring = Integer.toString(ii-9);
         //new changes
     }
 }
