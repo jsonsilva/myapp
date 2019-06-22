@@ -66,6 +66,8 @@ public class MainActivity extends AppCompatActivity {
 
     public void show()
     {
-
+        int a=10;
+        int b=10;
+        //new changes
     }
 }
