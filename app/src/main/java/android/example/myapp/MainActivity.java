@@ -66,8 +66,14 @@ public class MainActivity extends AppCompatActivity {
 
     public void show()
     {
-        int a=10;
-        int b=10;
+        int i=15;
+        int ii =20;
+        String istring = Integer.toString(i);
+        String iistring;
+
+
+        if(i<=100)
+            iistring = Integer.toString(ii-9);
         //new changes
     }
 }
