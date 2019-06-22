@@ -66,7 +66,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void show()
     {
-        int i=15;
+        int i=35;
         int ii =20;
         String istring = Integer.toString(i);
         String iistring;
