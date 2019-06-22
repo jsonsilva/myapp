@@ -68,11 +68,12 @@ public class MainActivity extends AppCompatActivity {
     {
         int i=35;
         int ii =20;
-        String istring = Integer.toString(i);
+        int iii=111;
+        String istring = Integer.toString(ii);
         String iistring;
 
 
-        if(i<=100)
+        if(i==100)
             iistring = Integer.toString(ii-9);
         //new changes
     }
